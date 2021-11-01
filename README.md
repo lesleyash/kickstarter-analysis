@@ -46,6 +46,7 @@ The number of campaigns which has a goal amount higher than $25k is very small c
   During the analysis of outcome based on goals, the sample size of campaigns which has a goal mount higher than $25k is not sufficient to make any trend analysis. 
 
 - What are some other possible tables and/or graphs that we could create?
+ 
   The possible tables/graphs that might help the analysis are **Outcome by country** and **Outcome by length of the campaign**. 
 
 
