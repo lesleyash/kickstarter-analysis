@@ -27,7 +27,7 @@ I have utilized *COUNTIFS* formula to summarize the success rate based on differ
 
 ### Challenges and Difficulties Encountered
 
-The number of campaigns which has a goal mount higher than $25k is very small compared to other groups.
+The number of campaigns which has a goal amount higher than $25k is very small compared to other groups.
 
 ## Results
 
@@ -39,11 +39,11 @@ The number of campaigns which has a goal mount higher than $25k is very small co
 
 - What can you conclude about the Outcomes based on Goals?
 
-When the goal amount of campaign is below $24,999, there is a negative correlation between goal amount and success rate. 
+  When the goal amount of campaign is below $24,999, there is a negative correlation between goal amount and success rate. 
 
 - What are some limitations of this dataset?
 
-During the analysis of outcome based on goals, the sample size of campaigns which has a goal mount higher than $25k is not sufficient to make any trend analysis. 
+  During the analysis of outcome based on goals, the sample size of campaigns which has a goal mount higher than $25k is not sufficient to make any trend analysis. 
 
 - What are some other possible tables and/or graphs that we could create?
 
