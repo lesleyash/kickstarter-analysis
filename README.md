@@ -23,3 +23,4 @@ Performing analysis on Kickstarter data
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92648619/139609847-49bbc6d0-b10e-495d-adc1-f55e2a3c7b80.png)
