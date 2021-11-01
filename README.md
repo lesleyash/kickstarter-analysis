@@ -33,9 +33,9 @@ The number of campaigns which has a goal amount higher than $25k is very small c
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. If Louise would like a higher success rate for the campaign, she should launch the campaign during May or June.
+  1. If Louise would like a higher success rate for the campaign, she should launch the campaign during May or June.
 
-2. I suggest Louise avoid campaign launching in December as it has the lowest success rate.
+  2. I suggest Louise avoid campaign launching in December as it has the lowest success rate.
 
 - What can you conclude about the Outcomes based on Goals?
 
