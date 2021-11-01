@@ -20,7 +20,7 @@ Based on the chart (***Theater Outcomes based on Launch Date***) below, month Ma
 
 ### Analysis of Outcomes Based on Goals
 
-I have utilized *COUNTIFS* formula to summarize the success rate based on different level of campaign goal amounts. The chart (*** Outcome_vs_Goals***) below visualized the success rate and failed rate among different goal groups. 
+I have utilized *COUNTIFS* formula to summarize the success rate based on different level of campaign goal amounts. The chart (***Outcome_vs_Goals***) below visualized the success rate and failed rate among different goal groups. 
 
 #### Outcomes vs Goals
 ---![Outcomes_vs_Goals](https://user-images.githubusercontent.com/92648619/139611726-a3cbadc7-31a1-4574-82f4-3521a1c812c8.png)
