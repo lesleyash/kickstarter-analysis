@@ -12,6 +12,8 @@ The challenge is the original data are not structured to be easily analyzed. I h
 
 ### Analysis of Outcomes Based on Launch Date
 
+Based on the chart (#Theater Outcomes based on Launch Date#)  below, 
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92648619/139609847-49bbc6d0-b10e-495d-adc1-f55e2a3c7b80.png)
 
 ### Analysis of Outcomes Based on Goals
