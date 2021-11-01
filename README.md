@@ -6,6 +6,8 @@ Performing analysis on Kickstarter data
 The purpose of the analysis is to help Louise to understand how the outcomes of campaigns are related to launch dates and funding goals.
 
 ## Analysis and Challenges
+I created Pivot table to summarize the number of events based on outcome(Success, failed and canceled). Then a line chart was created to provide the visualization of the results.
+
 
 ### Analysis of Outcomes Based on Launch Date
 
