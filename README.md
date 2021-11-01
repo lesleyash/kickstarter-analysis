@@ -7,6 +7,7 @@ The purpose of the analysis is to help Louise to understand how the outcomes of 
 
 ## Analysis and Challenges
 I created Pivot table to summarize the number of events based on outcome(Success, failed and canceled). Then a line chart was created to provide the visualization of the results.
+
 The challenge is the original data are not structured to be easily analyzed. I have created additional columns to extract key information from original data.
 
 ### Analysis of Outcomes Based on Launch Date
