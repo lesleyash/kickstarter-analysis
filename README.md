@@ -1,6 +1,5 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data
----
 
 ## Overview of Project
 ### Purpose
