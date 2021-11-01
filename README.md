@@ -14,7 +14,7 @@ The challenge is the original data are not structured to be easily analyzed. I h
 
 1. Based on the chart (***Theater Outcomes based on Launch Date***) below, month May has the highest successful outcome, while December has the lowest successful outcome.
 2. In terms of number of failed campaigns, there is no significant difference across the 12 months.
-
+#### Theater Outcomes based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92648619/139609847-49bbc6d0-b10e-495d-adc1-f55e2a3c7b80.png)
 
 ### Analysis of Outcomes Based on Goals
